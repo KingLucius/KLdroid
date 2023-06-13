@@ -53,8 +53,8 @@ sdk_path: /usr/lib/android-sdk
 # Canonical URL of the repositoy, needs to end in /repo. Is is used to identity
 # the repo in the client, as well.
 repo_url: https://raw.githubusercontent.com/KingLucius/KLdroid/main/repo
-repo_name: KingLucius personal app store. 
-# repo_description: >-
+repo_name: KLdroid
+repo_description: KingLucius personal app store. 
 #   This is a repository of apps to be used with F-Droid. Applications
 #   in this repository are either official binaries built by the
 #   original application developers, or are binaries built from source
@@ -80,7 +80,7 @@ archive_older: 3
 # set the filename here.  You must still copy it into place in
 # repo/icons/ and/or archive/icons/.
 #
-# repo_icon: myicon.png
+repo_icon: KLdroidIcon.png
 # archive_icon: myicon.png
 
 # This allows a specific kind of insecure APK to be included in the
