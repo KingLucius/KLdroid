@@ -64,5 +64,89 @@
     "size": 7700316,
     "apkName": "ver3.ycntivi.off_1.apk",
     "added": 1686668774.252491
+  },
+  "com.ytv.pronew_1.apk": {
+    "hash": "bdcec85671166430139b54f07952a0705ea55057d81aa2ba777d394336de6b77",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.Ad_ID",
+        null
+      ],
+      [
+        "com.google.android.gms.permission.AD_ID",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.ytv.pronew.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.ytv.pronew.1.png",
+      "480": "com.ytv.pronew.1.png",
+      "320": "com.ytv.pronew.1.png",
+      "240": "com.ytv.pronew.1.png",
+      "160": "com.ytv.pronew.1.png",
+      "0": "com.ytv.pronew.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.ytv.pronew",
+    "versionCode": 1,
+    "name": "YTV PRO",
+    "versionName": "1.0",
+    "minSdkVersion": 17,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "armeabi-v7a"
+    ],
+    "sig": "2504052a7aa4520c685d644372ece4e3",
+    "signer": "077949ce15742bcc5a3b35c2115d7d3ad87c0a22c700cecb379ac54393b02a0b",
+    "size": 10853049,
+    "apkName": "com.ytv.pronew_1.apk",
+    "icon": "com.ytv.pronew.1.png",
+    "added": 1686748042.656042
   }
 }
