@@ -1,1 +1,1 @@
-{"repo": {"icon": {"en-US": {"name": "/icons/KLdroidIcon.png"}}, "timestamp": 1686665460000}}
+{"repo": {"icon": {"en-US": {"name": "/icons/KLdroidIcon.png", "sha256": "0eaf6af602cc9c34666c6d9738ecfef324e5fbf2b538d62e5055d3161aa6912d", "size": 367092}}, "timestamp": 1686715167000}, "packages": {"ver3.ycntivi.off": {"metadata": {"summary": {"en-US": "Yacine TV IPTV app"}}}}}
