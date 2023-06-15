@@ -80,8 +80,8 @@ archive_older: 3
 # set the filename here.  You must still copy it into place in
 # repo/icons/ and/or archive/icons/.
 #
-repo_icon: "KLdroidIcon.png" 
-# archive_icon: myicon.png
+repo_icon: "KLdroidIcon.png"
+archive_icon: "KLdroidIcon.png"
 
 # This allows a specific kind of insecure APK to be included in the
 # 'repo' section.  Since April 2017, APK signatures that use MD5 are
@@ -117,7 +117,7 @@ make_current_version_link: false
 # The key (from the keystore defined below) to be used for signing the
 # repository itself. This is the same name you would give to keytool or
 # jarsigner using -alias. (Not needed in an unsigned repository).
-repo_keyalias: localhost.localdomain
+repo_keyalias: KLdroidkey
 
 
 
@@ -149,19 +149,19 @@ keystore: keystore.p12
 # different than the keypass below, it can be OK to store the password in this
 # file for real use. But in general, sensitive passwords should not be stored
 # in text files!
-keystorepass: FGnhFg285RcuUBDKZZ6bEe1UnV/++S2VlLeOBVyWSV8=
+keystorepass: 8p8hXug6PqNhM675sJ39Y859pQJAH7HztIu0gLbt8/k=
 
 
 
 # The password for keys - the same is used for each auto-generated key as well
 # as for the repository key. You should not normally store this password in a
 # file since it is a sensitive password.
-keypass: FGnhFg285RcuUBDKZZ6bEe1UnV/++S2VlLeOBVyWSV8=
+keypass: 8p8hXug6PqNhM675sJ39Y859pQJAH7HztIu0gLbt8/k=
 
 
 
 # The distinguished name used for all keys.
-keydname: CN=localhost.localdomain, OU=F-Droid
+keydname: CN=KLdroid, OU=F-Droid
 
 
 

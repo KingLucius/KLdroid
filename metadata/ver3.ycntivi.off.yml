@@ -1,9 +1,9 @@
+AuthorName: ''
 Categories:
-  - fdroid
-License: Unknown
-
-Name: Yacine TV
-Summary: Yacine TV IPTV app
-AutoUpdateMode: None
-UpdateCheckMode: None
+- KLdroid
 CurrentVersionCode: 2147483647
+IssueTracker: ''
+Name: Yacine TV
+SourceCode: ''
+Summary: 'Yacine TV app for mobile & TV.'
+WebSite: ''
