@@ -367,5 +367,70 @@
     "size": 7700316,
     "apkName": "ver3.ycntivi.off_1.apk",
     "added": 1686803849.468534
+  },
+  "com.t4w.smartv_1.apk": {
+    "hash": "7d4e5529b6907b78acea9f8760f5b3d32dd0a234e6b1283473745890e9ce060c",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.INSTALL_PACKAGES",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.t4w.smartv.1.png",
+      "480": "com.t4w.smartv.1.png",
+      "320": "com.t4w.smartv.1.png",
+      "240": "com.t4w.smartv.1.png",
+      "160": "com.t4w.smartv.1.png",
+      "0": "com.t4w.smartv.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.t4w.smartv",
+    "versionCode": 1,
+    "name": "\u0627\u0644\u0623\u0633\u0637\u0648\u0631\u0629 TV",
+    "versionName": "1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "sig": "c24aef67504cf20bb1253ae2c27b10ab",
+    "signer": "f35cab87c973abf8d9db80eceba631d5452547172c4ac13164f87a91944d3639",
+    "size": 2371086,
+    "apkName": "com.t4w.smartv_1.apk",
+    "icon": "com.t4w.smartv.1.png",
+    "added": 1686804450.3174
   }
 }
