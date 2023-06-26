@@ -432,5 +432,74 @@
     "apkName": "com.t4w.smartv_1.apk",
     "icon": "com.t4w.smartv.1.png",
     "added": 1686804450.3174
+  },
+  "com.ytv.pronew_2.apk": {
+    "hash": "1ef88ae25ad5420f4f045f5918dd819ea0cdcd4a746f96ce25a9ceb80d22554a",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.BLUETOOTH",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.Ad_ID",
+        null
+      ],
+      [
+        "com.google.android.gms.permission.AD_ID",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.ytv.pronew.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.ytv.pronew",
+    "versionCode": 2,
+    "name": "YTV PRO",
+    "versionName": "2.0",
+    "minSdkVersion": 17,
+    "targetSdkVersion": 33,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "2504052a7aa4520c685d644372ece4e3",
+    "signer": "077949ce15742bcc5a3b35c2115d7d3ad87c0a22c700cecb379ac54393b02a0b",
+    "size": 11103041,
+    "apkName": "com.ytv.pronew_2.apk",
+    "added": 1687764868.356141
   }
 }
