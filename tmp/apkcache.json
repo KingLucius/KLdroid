@@ -434,7 +434,7 @@
     "added": 1686804450.3174
   },
   "com.ytv.pronew_2.apk": {
-    "hash": "1ef88ae25ad5420f4f045f5918dd819ea0cdcd4a746f96ce25a9ceb80d22554a",
+    "hash": "8424646032fee8e0df6f3be5ca8e28cd18d9c4c5e43da8a4d881a8559c0ccaed",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -494,12 +494,13 @@
     "minSdkVersion": 17,
     "targetSdkVersion": 33,
     "nativecode": [
-      "arm64-v8a"
+      "arm64-v8a",
+      "armeabi-v7a"
     ],
-    "sig": "2504052a7aa4520c685d644372ece4e3",
-    "signer": "077949ce15742bcc5a3b35c2115d7d3ad87c0a22c700cecb379ac54393b02a0b",
-    "size": 11103041,
+    "sig": "1030d345b2c3be52401b3dec3436bbbc",
+    "signer": "e24d48f9656b67a6c670bdb9767fb70f0004f3beb7b9d51d12bdbdf36b8f7c16",
+    "size": 17894819,
     "apkName": "com.ytv.pronew_2.apk",
-    "added": 1687764868.356141
+    "added": 1688451558.556973
   }
 }
